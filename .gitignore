@@ -1,0 +1,6 @@
+.metadata/
+AmplitudeSampleApp/bin/
+AmplitudeSampleApp/libs/
+.DS_Store
+*.apk
+*.ap_
