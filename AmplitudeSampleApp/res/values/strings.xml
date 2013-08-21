@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AmplitudeTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Search Angel List for some Start ups</string>
+    <string name="type_location">Type in a Location</string>
+    <string name="locate_me">Locate Me!</string>
+</resources>
